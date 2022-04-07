@@ -93,7 +93,7 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	gomodules.xyz/jsonpatch/v2 v2.2.0
 	google.golang.org/api v0.62.0
-	google.golang.org/grpc v1.44.0
+	google.golang.org/grpc v1.45.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/api v0.23.4
