@@ -27,7 +27,7 @@ require (
 	github.com/docker/docker v20.10.12+incompatible
 	github.com/elazarl/go-bindata-assetfs v1.0.1
 	github.com/fatih/color v1.13.0
-	github.com/getkin/kin-openapi v0.76.0
+	github.com/getkin/kin-openapi v0.94.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-ldap/ldap/v3 v3.3.0
 	github.com/go-logr/logr v1.2.2
@@ -48,7 +48,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/googleapis/gnostic v0.5.5
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.0
 	github.com/gosuri/uitable v0.0.4
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/imdario/mergo v0.3.12
