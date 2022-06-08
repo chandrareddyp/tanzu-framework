@@ -15,7 +15,7 @@ require (
 	cloud.google.com/go/storage v1.18.2
 	github.com/AlecAivazis/survey/v2 v2.1.1
 	github.com/Azure/azure-sdk-for-go v58.1.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.11.23
+	github.com/Azure/go-autorest/autorest v0.11.27
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.10
 	github.com/Jeffail/gabs v1.4.0
 	github.com/MakeNowJust/heredoc v1.0.0
@@ -179,7 +179,7 @@ require (
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/gobuffalo/flect v0.2.4 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.0.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.2.0 // indirect
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/cel-go v0.10.0 // indirect
